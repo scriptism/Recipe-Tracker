@@ -1,2 +1,2 @@
 # Recipe-Tracker
-freeCodeCamp's Recipe Tracker
+A Recipe Tracker
